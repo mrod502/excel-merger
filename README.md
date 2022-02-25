@@ -5,8 +5,8 @@ Powershell is a program on windows that lets you run other programs and see your
 open powershell (win key, search powershell, open it)
 
 ### installing python
-`winget install python`
-`pip install pandas`
+ - `winget install python`
+ - `pip install pandas`
 ### installing git
 `winget install --id Git.Git -e --source winget`
 ### make a container folder and clone the github repository (files)
