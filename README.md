@@ -1,6 +1,6 @@
+# Excel Merger
 
 ## HOW TO RUN
-
 Powershell is a program on windows that lets you run other programs and see your files
 open powershell (win key, search powershell, open it)
 
