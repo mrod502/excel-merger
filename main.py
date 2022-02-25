@@ -1,15 +1,12 @@
-import tkinter as tk
-from tkinter import filedialog
-
+from excel_merger import ExcelMerger
 
 def main():
-  root = tk.Tk()
-  root.withdraw()
 
-  file_path = filedialog.askopenfilename()
+  merger = ExcelMerger()
 
-  return
+  merger.merge()
 
+  merger.save()
 
 if __name__ == "__main__":
   main()
